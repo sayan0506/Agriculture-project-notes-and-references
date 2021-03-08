@@ -3,7 +3,7 @@ Agriculture project notes and references
 
 ## Stage 1 Ground Survey
 
-[Ground Survey and Interactions with people involved in farming]()
+[Ground Survey and Interactions with people involved in farming](https://github.com/sayan0506/Agriculture-project-notes-and-references/blob/main/Ground%20Survey.pdf)
 
 **[ML_Solutions_Problems](https://docs.google.com/spreadsheets/d/1mgxP2OLr0P0VyUEZIh5kJLfJKdDNT26Pw5tVIWkwxsk/edit#gid=796617169)**
 
