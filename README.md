@@ -21,4 +21,4 @@ Agriculture project notes and references
 4. **[CLAHE augmentations](https://www.kaggle.com/amritpal333/clahe-augmentation-ranzcr-comp)**
 5. **[Irrigation Water Management](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs141p2_017781.pdf)**
 6. **[Smart Water Management Technology and IoT](https://www.digiteum.com/smart-water-management-iot/#2)**
-7. **[]()**
+7. **[IRRIGATION WATER MANAGEMENT USING SMART CONTROL SYSTEMS: A REVIEW](https://www.researchgate.net/publication/329472758_IRRIGATION_WATER_MANAGEMENT_USING_SMART_CONTROL_SYSTEMS_A_REVIEW)**
