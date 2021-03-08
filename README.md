@@ -20,3 +20,5 @@ Agriculture project notes and references
 3. **[A Vision Based Method for Automatic Evaluation of Germination Rate of Rice Seeds](https://ieeexplore.ieee.org/document/8337511)**
 4. **[CLAHE augmentations](https://www.kaggle.com/amritpal333/clahe-augmentation-ranzcr-comp)**
 5. **[Irrigation Water Management](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs141p2_017781.pdf)**
+6. **[Smart Water Management Technology and IoT](https://www.digiteum.com/smart-water-management-iot/#2)**
+7. **[]()**
