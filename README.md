@@ -19,3 +19,4 @@ Agriculture project notes and references
 2. **[Stream Processing and Data Integration With Kafka in Cropin Agriculture](https://www.cropin.com/blogs/stream-processing-and-data-integration-with-kafka/)**
 3. **[A Vision Based Method for Automatic Evaluation of Germination Rate of Rice Seeds](https://ieeexplore.ieee.org/document/8337511)**
 4. **[CLAHE augmentations](https://www.kaggle.com/amritpal333/clahe-augmentation-ranzcr-comp)**
+5. **[Irrigation Water Management](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs141p2_017781.pdf)**
