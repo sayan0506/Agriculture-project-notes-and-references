@@ -3,9 +3,15 @@ Agriculture project notes and references
 
 ## Stage 1 Ground Survey
 
-[Ground Survey and Interactions with people involved in farming](https://github.com/sayan0506/Agriculture-project-notes-and-references/blob/main/Ground%20Survey.pdf)
+**[Ground Survey and Interactions with people involved in farming](https://github.com/sayan0506/Agriculture-project-notes-and-references/blob/main/Ground%20Survey.pdf)**
+
+## Stage 2 Collecting possible ML proposals and ranking based on clarity, impact factor
 
 **[ML_Solutions_Problems](https://docs.google.com/spreadsheets/d/1mgxP2OLr0P0VyUEZIh5kJLfJKdDNT26Pw5tVIWkwxsk/edit#gid=796617169)**
+
+## Stage 3 Summarizing multiple ML solutions
+
+**[]()
 
 1. **[CS 329S: Machine Learning Systems Design Stanford, Winter 2021](https://stanford-cs329s.github.io/syllabus.html)**
 2. **[Stream Processing and Data Integration With Kafka in Cropin Agriculture](https://www.cropin.com/blogs/stream-processing-and-data-integration-with-kafka/)**
