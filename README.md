@@ -23,3 +23,4 @@ Agriculture project notes and references
 6. **[Smart Water Management Technology and IoT](https://www.digiteum.com/smart-water-management-iot/#2)**
 7. **[IRRIGATION WATER MANAGEMENT USING SMART CONTROL SYSTEMS: A REVIEW](https://www.researchgate.net/publication/329472758_IRRIGATION_WATER_MANAGEMENT_USING_SMART_CONTROL_SYSTEMS_A_REVIEW)**
 8. **[EarthStat - GIS data for agriculture and the environment](http://www.earthstat.org/)**
+9. **[Yield Estimation and Prediction](https://www.vista-geo.de/en/portfolio-items/yieldestimation/)**
