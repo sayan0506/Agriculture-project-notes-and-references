@@ -25,3 +25,4 @@ Agriculture project notes and references
 8. **[EarthStat - GIS data for agriculture and the environment](http://www.earthstat.org/)**
 9. **[Yield Estimation and Prediction](https://www.vista-geo.de/en/portfolio-items/yieldestimation/)**
 10. **[Deep Learning for Plant Stress Phenotyping: Trends and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1360138518301572#fig0015)**
+11. **[Using Geospatial Technology for Pest Monitoring and Detection](https://www.npdn.org/system/files/public/Meeting%20Information/2009_NationalMeeting/Kennaway_NPDN2009%20(3).pdf)**
