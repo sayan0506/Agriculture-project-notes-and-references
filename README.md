@@ -24,3 +24,4 @@ Agriculture project notes and references
 7. **[IRRIGATION WATER MANAGEMENT USING SMART CONTROL SYSTEMS: A REVIEW](https://www.researchgate.net/publication/329472758_IRRIGATION_WATER_MANAGEMENT_USING_SMART_CONTROL_SYSTEMS_A_REVIEW)**
 8. **[EarthStat - GIS data for agriculture and the environment](http://www.earthstat.org/)**
 9. **[Yield Estimation and Prediction](https://www.vista-geo.de/en/portfolio-items/yieldestimation/)**
+10. **[Deep Learning for Plant Stress Phenotyping: Trends and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1360138518301572#fig0015)**
