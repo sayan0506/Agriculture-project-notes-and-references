@@ -12,6 +12,7 @@ Agriculture project notes and references
 ## Stage 3 Summarizing multiple ML solutions
 
 **[Water Management System Proposal](https://github.com/sayan0506/Agriculture-project-notes-and-references/blob/main/Water%20Management%20Summarizations.pdf)**
+
 **[Vision Plan](https://github.com/sayan0506/Agriculture-project-notes-and-references/blob/main/Satellite_vision_summary.pdf)**
 
 #### References
