@@ -28,3 +28,4 @@ Agriculture project notes and references
 9. **[Yield Estimation and Prediction](https://www.vista-geo.de/en/portfolio-items/yieldestimation/)**
 10. **[Deep Learning for Plant Stress Phenotyping: Trends and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1360138518301572#fig0015)**
 11. **[Using Geospatial Technology for Pest Monitoring and Detection](https://www.npdn.org/system/files/public/Meeting%20Information/2009_NationalMeeting/Kennaway_NPDN2009%20(3).pdf)**
+12. **[Plant Disease Classification: A Comparative Evaluation of CNN models](https://www.mdpi.com/2223-7747/9/10/1319/pdf#:~:text=The%20Xception%20model%20attained%20the,disease%20on%20the%20PlantVillage%20dataset)**
