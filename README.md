@@ -36,3 +36,5 @@ Agriculture project notes and references
 17. **[Leaf-image-segmentation](https://github.com/YaredTaddese/leaf-image-segmentation)**
 18. **[Deep Learning-Based Segmentation and Quantification of Cucumber Powdery Mildew Using Convolutional Neural Network](https://www.frontiersin.org/articles/10.3389/fpls.2019.00155/full)**
 19. **[Leaf-net Implementation](https://github.com/deepakHonakeri05/Leaf-Disease-Classifier)**
+20. **[Deep Learning for the plant disease detection](https://github.com/MarkoArsenovic/DeepLearning_PlantDiseases)**
+21. **[Plant Diseases Detector](https://github.com/Oskop/Pladiator)**
