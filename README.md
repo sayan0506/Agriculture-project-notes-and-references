@@ -35,3 +35,4 @@ Agriculture project notes and references
 16. **[Weed detection and segmentation](https://github.com/Midnight93/Weeds-Detection-and-Segmentation)**
 17. **[Leaf-image-segmentation](https://github.com/YaredTaddese/leaf-image-segmentation)**
 18. **[Deep Learning-Based Segmentation and Quantification of Cucumber Powdery Mildew Using Convolutional Neural Network](https://www.frontiersin.org/articles/10.3389/fpls.2019.00155/full)**
+19. **[Leaf-net Implementation](https://github.com/deepakHonakeri05/Leaf-Disease-Classifier)**
