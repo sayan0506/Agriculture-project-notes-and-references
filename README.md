@@ -29,18 +29,9 @@ Agriculture project notes and references
 10. **[Deep Learning for Plant Stress Phenotyping: Trends and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1360138518301572#fig0015)**
 11. **[Using Geospatial Technology for Pest Monitoring and Detection](https://www.npdn.org/system/files/public/Meeting%20Information/2009_NationalMeeting/Kennaway_NPDN2009%20(3).pdf)**
 12. **[Plant Disease Classification: A Comparative Evaluation of CNN models](https://www.mdpi.com/2223-7747/9/10/1319/pdf#:~:text=The%20Xception%20model%20attained%20the,disease%20on%20the%20PlantVillage%20dataset)**
-13. **[](https://www.mdpi.com/2223-7747/9/10/1319/pdf#:~:text=The%20Xception%20model%20attained%20the,disease%20on%20the%20PlantVillage%20dataset)**
+13. **[Plant Disease Classification: A Comparative Evaluation of Convolutional Neural Networks and Deep Learning Optimizers](https://www.mdpi.com/2223-7747/9/10/1319/pdf#:~:text=The%20Xception%20model%20attained%20the,disease%20on%20the%20PlantVillage%20dataset)**
 14. **[Xception-PyTorch](https://github.com/tstandley/Xception-PyTorch)**
 15. **[Review: Xception — With Depthwise Separable Convolution](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568?gi=224ea57f354)**
-16. **[CS 329S: Machine Learning Systems Design Stanford, Winter 2021](https://stanford-cs329s.github.io/syllabus.html)**
-17. **[Stream Processing and Data Integration With Kafka in Cropin Agriculture](https://www.cropin.com/blogs/stream-processing-and-data-integration-with-kafka/)**
-18. **[A Vision Based Method for Automatic Evaluation of Germination Rate of Rice Seeds](https://ieeexplore.ieee.org/document/8337511)**
-19. **[CLAHE augmentations](https://www.kaggle.com/amritpal333/clahe-augmentation-ranzcr-comp)**
-20. **[Irrigation Water Management](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs141p2_017781.pdf)**
-21. **[Smart Water Management Technology and IoT](https://www.digiteum.com/smart-water-management-iot/#2)**
-22. **[IRRIGATION WATER MANAGEMENT USING SMART CONTROL SYSTEMS: A REVIEW](https://www.researchgate.net/publication/329472758_IRRIGATION_WATER_MANAGEMENT_USING_SMART_CONTROL_SYSTEMS_A_REVIEW)**
-23. **[EarthStat - GIS data for agriculture and the environment](http://www.earthstat.org/)**
-24. **[Yield Estimation and Prediction](https://www.vista-geo.de/en/portfolio-items/yieldestimation/)**
-25. **[Deep Learning for Plant Stress Phenotyping: Trends and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1360138518301572#fig0015)**
-26. **[Using Geospatial Technology for Pest Monitoring and Detection](https://www.npdn.org/system/files/public/Meeting%20Information/2009_NationalMeeting/Kennaway_NPDN2009%20(3).pdf)**
-27. **[Weed detection and segmentation](https://github.com/Midnight93/Weeds-Detection-and-Segmentation)**
+16. **[Weed detection and segmentation](https://github.com/Midnight93/Weeds-Detection-and-Segmentation)**
+17. **[Leaf-image-segmentation](https://github.com/YaredTaddese/leaf-image-segmentation)**
+18. **[Deep Learning-Based Segmentation and Quantification of Cucumber Powdery Mildew Using Convolutional Neural Network](https://www.frontiersin.org/articles/10.3389/fpls.2019.00155/full)**
