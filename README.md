@@ -38,3 +38,4 @@ Agriculture project notes and references
 19. **[Leaf-net Implementation](https://github.com/deepakHonakeri05/Leaf-Disease-Classifier)**
 20. **[Deep Learning for the plant disease detection](https://github.com/MarkoArsenovic/DeepLearning_PlantDiseases)**
 21. **[Plant Diseases Detector](https://github.com/Oskop/Pladiator)**
+22. **[Comparative Assessment of Deep Learning to Detect the Leaf Diseases of Potato based on Data Augmentation]()**
