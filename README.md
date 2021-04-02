@@ -43,3 +43,4 @@ Agriculture project notes and references
 24. **[Grape Leaf Disease Classification Using Improved Deep CNN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373759/pdf/fpls-11-01082.pdf)**
 25. **[Plant diseases and pests detection based on deep learning: a review](https://data.mendeley.com/datasets/s62zm6djd2/1)**
 26. **[Application of Deep Learning in Integrated Pest Management: A Real-Time System for Detection and Diagnosis of Oilseed Rape Pests](https://downloads.hindawi.com/journals/misy/2019/4570808.pdf)**
+27. **[An optimized dense convolutional neural network model for disease recognition and classification in corn leaf](https://www.sciencedirect.com/science/article/abs/pii/S0168169920302180?via%3Dihub)**
