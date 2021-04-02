@@ -41,3 +41,5 @@ Agriculture project notes and references
 22. **[Comparative Assessment of Deep Learning to Detect the Leaf Diseases of Potato based on Data Augmentation](https://github.com/sayan0506/Agriculture-project-notes-and-references/blob/main/Potato%20classification%20model%20CNN.pdf)**
 23. **[Rice Leaf Disease Classification using CNN](https://www.researchgate.net/publication/348243112_Rice_Leaf_Diseases_Recognition_Using_Convolutional_Neural_Networks)**
 24. **[Grape Leaf Disease Classification Using Improved Deep CNN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373759/pdf/fpls-11-01082.pdf)**
+25. **[Plant diseases and pests detection based on deep learning: a review](https://data.mendeley.com/datasets/s62zm6djd2/1)**
+26. **[Application of Deep Learning in Integrated Pest Management: A Real-Time System for Detection and Diagnosis of Oilseed Rape Pests](https://downloads.hindawi.com/journals/misy/2019/4570808.pdf)**
