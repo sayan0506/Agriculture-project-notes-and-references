@@ -45,3 +45,5 @@ Agriculture project notes and references
 26. **[Application of Deep Learning in Integrated Pest Management: A Real-Time System for Detection and Diagnosis of Oilseed Rape Pests](https://downloads.hindawi.com/journals/misy/2019/4570808.pdf)**
 27. **[An optimized dense convolutional neural network model for disease recognition and classification in corn leaf](https://www.sciencedirect.com/science/article/abs/pii/S0168169920302180?via%3Dihub)**
 28. **[Live AWS For Data Science - Deploying Machine Learning Application In EC2 Instance](https://youtu.be/kQ9qiIzsFxM)**
+29. **[Continuous deployment from Git using Cloud Build](https://cloud.google.com/run/docs/continuous-deployment-with-cloud-build)**
+30. **[How to Deploy a Machine Learning Model to Google Cloud for 20%](https://youtu.be/fw6NMQrYc6w)**
