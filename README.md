@@ -47,3 +47,4 @@ Agriculture project notes and references
 28. **[Live AWS For Data Science - Deploying Machine Learning Application In EC2 Instance](https://youtu.be/kQ9qiIzsFxM)**
 29. **[Continuous deployment from Git using Cloud Build](https://cloud.google.com/run/docs/continuous-deployment-with-cloud-build)**
 30. **[How to Deploy a Machine Learning Model to Google Cloud for 20%](https://youtu.be/fw6NMQrYc6w)**
+31. **[Identification of Tomato Leaf Disease Detection using Pretrained Deep Convolutional Neural Network Models](https://www.scpe.org/index.php/scpe/article/view/1780)**
